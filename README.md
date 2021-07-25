@@ -17,13 +17,13 @@ Kurset benytter følgende software
 # Ugeplan
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-1.          | 1,2,3       | Intro til python og jupyter |             |
-2. | 4 og 5 | Variabler og operatorer  | ----------- |
-3. | 6 og 7 | Indbyggede typer og datastrukturer | |
-4. | 8 og 11 | Løkker og betinget udførsel | |
-5. | 9 | Funktioner | |
-6. | 10 | Undtagelser | |
-7. | 11-12 | Operationer på lister ||
-8. | 14 | Moduler og pakker | |
-9. | 15 | Strenge og regulære udtryk ||
-10. | 16 | Indledende data science | |
+I          | 1,2,3       | Intro til python og jupyter |             |
+II | 4 og 5 | Variabler og operatorer  | ----------- |
+III | 6 og 7 | Indbyggede typer og datastrukturer | |
+IV | 8 og 11 | Løkker og betinget udførsel | |
+V | 9 | Funktioner | |
+VI | 10 | Undtagelser | |
+VII | 11-12 | Operationer på lister ||
+VIII | 14 | Moduler og pakker | |
+IX | 15 | Strenge og regulære udtryk ||
+X | 16 | Indledende data science | |
