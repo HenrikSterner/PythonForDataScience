@@ -15,9 +15,9 @@ Kurset benytter følgende software
 
 
 # Ugeplan
-Modul     | Kapitel     | Emne og Indhold | Øvelser  |
------------ | ----------- | ----------- | ----------- |
-1. | 1,2,3 | Intro til python og jupyter | ----------- |
+Modul       | Kapitel     | Emne og Indhold             | Øvelser     |
+----------- | ----------- | -----------                 | ----------- |
+1.          | 1,2,3       | Intro til python og jupyter | ----------- |
 2. | 4 og 5 | Variabler og operatorer  | ----------- |
 3. | 6 og 7 | Indbyggede typer og datastrukturer | |
 4. | 8 og 11 | Løkker og betinget udførsel | |
