@@ -14,7 +14,8 @@ Kurset benytter følgende software
 - pyp5js
 
 
-# Ugeplan
+# Undervisningsplan
+Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. 
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
 I          | 1,2,3       | Intro til python og jupyter |             |
