@@ -1,4 +1,4 @@
-# Velkommen til et crash course i Python
+# Velkommen til kurset i 'Python for Data Science'
 Python er ved at blive det mest populære og anvendte sprog i verdenen, hvor det bl.a. anvendes meget indenfor data science og maskine læring.
 Nærværende repository, beskriver et kursus/forløb i Python. Vi forudsætter, at du allerede har et vist kendskab som du får i eksempelvis i forløbet om Introduktion til programmering i P5.js.
 Forløbet er en forudsætning for at kunne arbejde med emner som maskine læring, data science og AI.
