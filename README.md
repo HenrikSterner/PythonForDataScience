@@ -11,14 +11,14 @@ Hele bogen er pensum, men vi gennemgår meget af stoffet i timerne.
 Kurset benytter følgende software 
 - Anaconda (https://www.anaconda.com/products/individual) 
 - jupyter-plugin til Visual Studio Code
-- pyp5js
+- pyp5js (https://berinhard.github.io/pyp5js/)
 
 
 # Undervisningsplan
 Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. 
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-I          | 1,2,3       | Intro til python og jupyter |             |
+I          | 1,2,3       | Intro til python og jupyter |  1-6           |
 II | 4 og 5 | Variabler og operatorer  | ----------- |
 III | 6 og 7 | Indbyggede typer og datastrukturer | |
 IV | 8 og 11 | Løkker og betinget udførsel | |
