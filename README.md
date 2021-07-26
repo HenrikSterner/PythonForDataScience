@@ -18,12 +18,12 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. 
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-I          | 1,2,3       | Intro til python og jupyter |  1-6           |
-II | 4 og 5 | Variabler og operatorer  | 7-14 |
-III | 6 og 7 | Indbyggede typer og datastrukturer | |
-IV | 8 og 11 | Løkker og betinget udførsel | |
+I          | 1,2,3       | Intro til python og jupyter |             |
+II | 4 og 5 | Variabler og operatorer  | 1-6 |
+III | 6 og 7 | Indbyggede typer og datastrukturer | 7-14 |
+IV | 8 og 11 | Løkker og betinget udførsel | 21-27,28|
 V | 9 | Funktioner | |
-VI | 10 | Undtagelser | |
+VI | 10 | Undtagelser | 32 |
 VII | 11-12 | Operationer på lister ||
 VIII | 14 | Moduler og pakker | |
 IX | 15 | Strenge og regulære udtryk ||
