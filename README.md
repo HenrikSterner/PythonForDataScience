@@ -11,7 +11,7 @@ Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderpl
 Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
 # Software
-Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, scikit, matplotlib etc.) 
+Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, scikit, matplotlib, streamlit etc.) 
 - [Anaconda] (https://www.anaconda.com/products/individual) 
 - jupyter-plugin til Visual Studio Code
 - [pyp5js] (https://berinhard.github.io/pyp5js/)
@@ -20,22 +20,23 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 # Undervisningsplan
 Herunder en tentativ plan for undervisningen, der opdateres undervejs. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale.
 
-Modul       | Kapitel     | Indhold                     | Øvelser     |
+Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
 1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøve software         |
 2 | PY: 4 og 5 | Variabler og operatorer  | 1-6 |
 3 | PY: 6 og 7 | Indbyggede typer og datastrukturer | 7-14 |
 4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27|
 5 | PY: 9 | Funktioner | 33 |
-6 | PY: 10 | Undtagelser | 32 |
-7 | PY: 11-12 | Operationer på lister |34, 35, 28|
-8 | PY: 14 | Moduler og pakker | 37 |
-9 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
-10 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
-11 | PY: 16 | Indledende data science | |
-12 | DS: 2 | Introduktion til numpy (og scipy) | |
-13 | DS: 4 | Introduktion til matplotlib | |
-14 | DS: 5 | Introduktion til maskinelæring | |
-15 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN og beslutningstræer | |
-16 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
-17 | DS: 5 | Reinforceret læring | |
+6 |   --    | Webapps og guis i Python | 41 |
+7 | PY: 10 | Undtagelser | 32 |
+8 | PY: 11-12 | Operationer på lister |34, 35, 28|
+9 | PY: 14 | Moduler og pakker | 37 |
+10 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
+11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
+12 | PY: 16 | Indledende data science | |
+13 | DS: 2 | Introduktion til numpy (og scipy) | |
+14 | DS: 4 | Introduktion til matplotlib | |
+15 | DS: 5 | Introduktion til maskinelæring | |
+16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN og beslutningstræer | |
+17 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
+18 | DS: 5 | Reinforceret læring | |
