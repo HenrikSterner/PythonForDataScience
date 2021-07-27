@@ -27,7 +27,7 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 3 | PY: 6 og 7 | Indbyggede typer og datastrukturer | 7-14 |
 4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27|
 5 | PY: 9 | Funktioner | 33 |
-6 |   --    | Webapps og guis i Python | 41 |
+6 |   --    | WebApps og GUIs  | 41 |
 7 | PY: 10 | Undtagelser | 32 |
 8 | PY: 11-12 | Operationer på lister |34, 35, 28|
 9 | PY: 14 | Moduler og pakker | 37 |
