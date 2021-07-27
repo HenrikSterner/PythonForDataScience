@@ -23,16 +23,17 @@ Modul       | Kapitel     | Indhold                     | Øvelser     |
 1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøv software         |
 2 | PY: 4 og 5 | Variabler og operatorer  | 1-6 |
 3 | PY: 6 og 7 | Indbyggede typer og datastrukturer | 7-14 |
-4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27,28|
-5 | PY: 9 | Funktioner | |
+4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27|
+5 | PY: 9 | Funktioner | 33 |
 6 | PY: 10 | Undtagelser | 32 |
-7 | PY: 11-12 | Operationer på lister ||
-8 | PY: 14 | Moduler og pakker | |
-9 | PY: 15 | Strenge og regulære udtryk ||
-10 | PY: 16 | Indledende data science | |
-11 | DS: 2 | Introduktion til numpy (og scipy) | |
-12 | DS: 4 | Introduktion til matplotlib | |
-13 | DS: 5 | Introduktion til maskinelæring | |
-14 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN og beslutningstræer | |
-15 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
-16 | DS: 5 | Reinforceret læring | |
+7 | PY: 11-12 | Operationer på lister |34,35,28|
+8 | PY: 14 | Moduler og pakker | 37 |
+9 | PY: 15 | Strenge og regulære udtryk | 36,29,30|
+10 | Noter | Objektorienteret programmering og principperne bag | 38,39|
+11 | PY: 16 | Indledende data science | |
+12 | DS: 2 | Introduktion til numpy (og scipy) | |
+13 | DS: 4 | Introduktion til matplotlib | |
+14 | DS: 5 | Introduktion til maskinelæring | |
+15 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN og beslutningstræer | |
+16 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
+17 | DS: 5 | Reinforceret læring | |
