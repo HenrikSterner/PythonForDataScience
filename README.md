@@ -1,7 +1,8 @@
 # Velkommen til kurset i 'Intro til Python for Data Science'
-Python er ved at blive det mest populære og anvendte sprog i verdenen, hvor det bl.a. anvendes meget indenfor data science og maskine læring (jf. stats fra tiobe index og red monk), relativt hurtigt og har et kæmpe økosystem (100.000+) pakker, som gør det i stand til at gøre alt muligt. 
-Nærværende github repository, beskriver et kursus/forløb i Python. Vi forudsætter, at du allerede har et vist kendskab som du får i eksempelvis i forløbet om Introduktion til programmering i P5.js.
-Forløbet er en forudsætning for at kunne arbejde med emner som maskine læring, data science og AI.
+Python er hurtigt ved at blive det mest populære og anvendte sprog i verdenen til bl.a.data science og maskinelæring (se bare stats fra tiobe index og red monk). Det er relativt hurtigt og har et kæmpe økosystem (100.000+) pakker, som gør os i stand til at lave stort set alt med sproget. 
+Nærværende github repository, beskriver et kursus/forløb i Python og data science. Vi forudsætter, at du allerede har et vist kendskab til programmering, som du får i eksempelvis i forløbet om "Introduktion til programmering i P5.js".
+Forløbet starter med en brushup til python og hvordan det adskiller sig fra eksempelvis javascript. Det er en forudsætning for at kunne arbejde med videregående emner som maskinelæring, data science og AI. 
+
 # Grundbog
 Vi bruger uddrag af følgende to gratis og open source bøger af af Jake Vanderplas: 
 1. (PY) [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
@@ -17,7 +18,8 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 
 
 # Undervisningsplan
-Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. 
+Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. Lav øvelserne i den rækkefølge som der står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester!
+
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
 1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøv software         |
