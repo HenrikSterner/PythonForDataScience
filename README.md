@@ -22,7 +22,7 @@ Herunder en tentativ plan for undervisningen, der opdateres undervejs. Øvelser 
 
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøv software         |
+1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøve software         |
 2 | PY: 4 og 5 | Variabler og operatorer  | 1-6 |
 3 | PY: 6 og 7 | Indbyggede typer og datastrukturer | 7-14 |
 4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27|
