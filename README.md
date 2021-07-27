@@ -1,14 +1,14 @@
-# Velkommen til kurset i 'Intro til Python for Data Science'
+# Velkommen til 'Intro til Python og Data Science'
 Python er hurtigt ved at blive det mest populære og anvendte sprog i verdenen til bl.a.data science og maskinelæring (se bare stats fra tiobe index og red monk). Det er relativt hurtigt og har et kæmpe økosystem (100.000+) pakker, som gør os i stand til at lave stort set alt med sproget. 
 Nærværende github repository, beskriver et kursus/forløb i Python og data science. Vi forudsætter, at du allerede har et vist kendskab til programmering, som du får i eksempelvis i forløbet om "Introduktion til programmering i P5.js".
 Forløbet starter med en brushup til python og hvordan det adskiller sig fra eksempelvis javascript. Det er en forudsætning for at kunne arbejde med videregående emner som maskinelæring, data science og AI. 
 
 # Grundbog
-Vi bruger uddrag af følgende to gratis og open source bøger af af Jake Vanderplas: 
+Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
 1. (PY) [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
 2. (DS) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 
-Bøgerne er gratis,og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
+Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
 # Software
 Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, scikit, matplotlib etc.) 
@@ -18,7 +18,7 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 
 
 # Undervisningsplan
-Herunder en tentativ plan for  undervisningen. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. Lav øvelserne i den rækkefølge som der står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester!
+Herunder en tentativ plan for undervisningen, der opdateres undervejs. Øvelser refererer til numre i øvelsesdokumentet exercises.ipynb. Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale.
 
 Modul       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
