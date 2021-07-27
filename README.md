@@ -26,10 +26,10 @@ Modul       | Kapitel     | Indhold                     | Øvelser     |
 4 | PY: 8 og 11 | Løkker og betinget udførsel | 21-27|
 5 | PY: 9 | Funktioner | 33 |
 6 | PY: 10 | Undtagelser | 32 |
-7 | PY: 11-12 | Operationer på lister |34,35,28|
+7 | PY: 11-12 | Operationer på lister |34, 35, 28|
 8 | PY: 14 | Moduler og pakker | 37 |
-9 | PY: 15 | Strenge og regulære udtryk | 36,29,30|
-10 | Noter | Objektorienteret programmering og principperne bag | 38,39|
+9 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
+10 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
 11 | PY: 16 | Indledende data science | |
 12 | DS: 2 | Introduktion til numpy (og scipy) | |
 13 | DS: 4 | Introduktion til matplotlib | |
