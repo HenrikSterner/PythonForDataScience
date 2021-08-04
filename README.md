@@ -37,6 +37,6 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 13 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
 14 | DS: 4 | Introduktion til matplotlib | |
 15 | DS: 5 | Introduktion til maskinelæring | |
-16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN og beslutningstræer | |
+16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
 17 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
 18 | DS: 5 | Reinforceret læring | |
