@@ -3,10 +3,10 @@ Python er hurtigt ved at blive det mest populære og anvendte sprog i verdenen t
 Nærværende github repository, beskriver et kursus/forløb i Python og data science. Vi forudsætter, at du allerede har et vist kendskab til programmering, som du får i eksempelvis i forløbet om "Introduktion til programmering i P5.js".
 Forløbet starter med en brushup til python og hvordan det adskiller sig fra eksempelvis javascript. Det er en forudsætning for at kunne arbejde med videregående emner som maskinelæring, data science og AI. 
 
-God arbejdslyst,
+God arbejdslyst.
 
-Vh 
-Peter Sterner og Henrik Sterner
+Mvh.
+Henrik Sterner og Peter Sterner
 
 # Grundbog
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
