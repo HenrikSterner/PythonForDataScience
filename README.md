@@ -6,7 +6,7 @@ Forløbet starter med en brushup til python og hvordan det adskiller sig fra eks
 God arbejdslyst.
 
 Mvh.
-Henrik Sterner og Peter Sterner
+Henrik Sterner (datalog og matematiker) og Peter Sterner
 
 # Grundbog
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
