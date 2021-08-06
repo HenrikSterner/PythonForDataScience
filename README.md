@@ -18,7 +18,7 @@ Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør de
 # Software
 Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, scikit, matplotlib, streamlit etc.) 
 - [Anaconda] (https://www.anaconda.com/products/individual) 
-- jupyter-plugin til Visual Studio Code
+- [Jupyter-plugin til Visual Studio Code] (https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter). Kan bare hentes under plugin i vscode.
 - [pyp5js] (https://berinhard.github.io/pyp5js/)
 
 
