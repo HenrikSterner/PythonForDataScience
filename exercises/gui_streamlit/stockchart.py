@@ -11,7 +11,6 @@ st.title('Stock Data Visualizer')
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME')
 selected_stock = st.selectbox('Select stock', stocks)
 
-
 @st.cache
 def load_data(ticker):
     data = yf.download(ticker, START, TODAY)
