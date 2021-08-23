@@ -8,10 +8,11 @@ God arbejdslyst.
 Mvh.
 Henrik Sterner og Peter Sterner
 
-# Grundbog
+# Grundbog og øvelser
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
 1. (PY) [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
 2. (DS) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+3. [Øvelser](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb)
 
 Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
