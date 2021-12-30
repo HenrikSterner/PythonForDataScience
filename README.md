@@ -14,6 +14,7 @@ Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderpl
 2. (DS) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 3. [Øvelser](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb)
 4. [Noter] (https://github.com/HenrikSterner/PythonForDataScience/tree/master/noter)
+5. [AdvPy] (https://python-course.eu/advanced-python/)
 
 Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
@@ -38,12 +39,17 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 7 | PY: 10 | Undtagelser | 32 |
 8 | PY: 11-12 | Operationer på lister |34, 35, 28|
 9 | PY: 14 | Moduler og pakker | 37 |
-10 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
+10 | PY: 15 | Strenge oglidt om regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
-12 | PY: 16 | Indledende data science | |
-13 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
-14 | DS: 4 | Introduktion til matplotlib | |
-15 | DS: 5 | Introduktion til maskinelæring | |
-16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
-17 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
-18 | DS: 5 | Reinforceret læring | |
+12 | AdvPy:5  | Videregående Python: Zip funktionen | |
+13 | AdvPy:4  | Videregående Python: Lambda udtryk, filter og map | |
+14 | AdvPy:6  | Videregående Python: Decorators | |
+15 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
+16 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+D1 | PY: 16 | Indledende data science | |
+D2 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
+D3 | DS: 4 | Introduktion til matplotlib | |
+D4 | DS: 5 | Introduktion til maskinelæring | |
+D5 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
+D6 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
+D7 | DS: 5 | Reinforceret læring | |
