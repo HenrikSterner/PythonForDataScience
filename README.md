@@ -41,7 +41,7 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 9 | PY: 14 | Moduler og pakker | 37 |
 10 | PY: 15 | Strenge oglidt om regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
-12 | AdvPy:5  | Videregående Python: Zip funktionen | |
+12 | AdvPy:5  | Videregående Python: Zip funktionen | 49 |
 13 | AdvPy:4  | Videregående Python: Lambda udtryk, filter og map | |
 14 | AdvPy:6  | Videregående Python: Decorators | |
 15 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
