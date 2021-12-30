@@ -42,10 +42,13 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 10 | PY: 15 | Strenge oglidt om regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
 12 | AdvPy:5  | Videregående Python: Zip funktionen | 49 |
-13 | AdvPy:4  | Videregående Python: Lambda udtryk, filter og map | |
-14 | AdvPy:6  | Videregående Python: Decorators | |
-15 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
-16 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+13 | AdvPy:4  | Videregående Python: Lambda udtryk |50 |
+14 | AdvPy:4  | Videregående Python: filter funktion | |
+15 | AdvPy:4  | Videregående Python: map funktion | |
+16 | AdvPy:6  | Videregående Python: Decorators | |
+17 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
+18 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+
 D1 | PY: 16 | Indledende data science | |
 D2 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
 D3 | DS: 4 | Introduktion til matplotlib | |
