@@ -48,7 +48,6 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 16 | AdvPy:6  | Videregående Python: Decorators | |
 17 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
 18 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
-
 D1 | PY: 16 | Indledende data science | |
 D2 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
 D3 | DS: 4 | Introduktion til matplotlib | |
