@@ -56,10 +56,10 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 
 Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
-D1 | PY: 16, DI: 1 | Indledende data science og maskinelæring| |
-D2 | DI: 2 | Introduktion til vigtig baggrundsstof fra matematik og statistik | |
-D3 | PY: 16 | Introduktion til numpy, scipy, matplotlib | |
-D4 | DI: 3 | Introduktion til maskinelæring: Linært neurale netværk | |
+D1 | PY: 16, DI: 1 | Indledende data science og maskinelæring| Se 1.9 i DI:1 |
+D2 | DI: 2 | Introduktion til vigtig baggrundsstof fra matematik og statistik | Øvelser i 2.1-2.7 i DI:2 |
+D3 | PY: 16 | Introduktion til numpy, scipy, matplotlib | 43-47|
+D4 | DI: 3 | Introduktion til maskinelæring: Linært neurale netværk | Øvelser i 3 i DI:3  |
 D5 | DI: 4 | Introduktion til multilinære perceptroner | |
 D6 | DI: 5 | Dyb læring | |
 D7, | DI: 6 og 7 | Convolutional neurale netværk | |
