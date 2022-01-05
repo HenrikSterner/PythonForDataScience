@@ -51,6 +51,7 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 16 | PY11, AdvPy:6  | Videregående Python: Decorators | |
 17 | PY11, AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
 18 | PY11, AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+19 | PY11, AdvPy:12-13  | Videregående Python: Tråde og parallellisering | |
 
 ## Datascience, maskinelæring og dyb læring i Python
 
