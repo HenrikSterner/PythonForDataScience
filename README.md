@@ -29,6 +29,8 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 # Undervisningsplan
 Herunder en tentativ plan for undervisningen, der opdateres undervejs. Øvelser refererer til numre i øvelsesdokumentet [exercises.ipynb](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb). Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale.
 
+## Programmering i Python
+
 Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
 1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøve software         |
@@ -45,13 +47,18 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 12 | PY11, AdvPy:5  | Videregående Python: Zip funktionen | 49 |
 13 | PY11, AdvPy:4  | Videregående Python: Lambda udtryk |50 |
 14 | PY11, AdvPy:4  | Videregående Python: filter funktion | |
-15 | AdvPy:4  | Videregående Python: map funktion | |
-16 | AdvPy:6  | Videregående Python: Decorators | |
-17 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
-18 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+15 | PY11, AdvPy:4  | Videregående Python: map funktion | |
+16 | PY11, AdvPy:6  | Videregående Python: Decorators | |
+17 | PY11, AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
+18 | PY11, AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+
+## Datascience, maskinelæring og dyb læring i Python
+
+Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
+----------- | ----------- | ----------------------------| ----------- |
 D1 | PY: 16, DI: 1 | Indledende data science og maskinelæring| |
-D2 | DI: 2, PY: 16 | Introduktion til numpy (og scipy) | |
-D3 | DI: PY: 16 | Introduktion til matplotlib | |
+D2 | DI: 2 | Introduktion til vigtig baggrundsstof fra matematik og statistik | |
+D3 | PY: 16 | Introduktion til numpy, scipy, matplotlib | |
 D4 | DI: 3 | Introduktion til maskinelæring: Linært neurale netværk | |
 D5 | DI: 4 | Introduktion til multilinære perceptroner | |
 D6 | DI: 5 | Dyb læring | |
