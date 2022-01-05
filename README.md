@@ -11,10 +11,11 @@ Henrik Sterner og Peter Sterner
 # Grundbog og øvelser
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
 1. (PY) [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
-2. (DS) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+2. (DI) [Dive into Deep Learning](https://d2l.ai/).
 3. [Øvelser](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb)
 4. [Noter] (https://github.com/HenrikSterner/PythonForDataScience/tree/master/noter)
 5. [AdvPy] (https://python-course.eu/advanced-python/)
+
 
 Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
@@ -41,17 +42,20 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 9 | PY: 14 | Moduler og pakker | 37 |
 10 | PY: 15 | Strenge oglidt om regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
-12 | AdvPy:5  | Videregående Python: Zip funktionen | 49 |
-13 | AdvPy:4  | Videregående Python: Lambda udtryk |50 |
-14 | AdvPy:4  | Videregående Python: filter funktion | |
+12 | PY11, AdvPy:5  | Videregående Python: Zip funktionen | 49 |
+13 | PY11, AdvPy:4  | Videregående Python: Lambda udtryk |50 |
+14 | PY11, AdvPy:4  | Videregående Python: filter funktion | |
 15 | AdvPy:4  | Videregående Python: map funktion | |
 16 | AdvPy:6  | Videregående Python: Decorators | |
 17 | AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
 18 | AdvPy:12-13  | Videregående Python: Regulære udtryk | |
-D1 | PY: 16 | Indledende data science | |
-D2 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
-D3 | DS: 4 | Introduktion til matplotlib | |
-D4 | DS: 5 | Introduktion til maskinelæring | |
-D5 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
-D6 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
-D7 | DS: 5 | Reinforceret læring | |
+D1 | PY: 16, DI: 1 | Indledende data science og maskinelæring| |
+D2 | DI: 2, PY: 16 | Introduktion til numpy (og scipy) | |
+D3 | DI: PY: 16 | Introduktion til matplotlib | |
+D4 | DI: 3 | Introduktion til maskinelæring: Linært neurale netværk | |
+D5 | DI: 4 | Introduktion til multilinære perceptroner | |
+D6 | DI: 5 | Dyb læring | |
+D7, | DI: 6 og 7 | Convolutional neurale netværk | |
+D8 | På vej | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
+D9 | På vej | Unsupervised læring: kMeans, neurale netværk | |
+D10 | På vej | Reinforceret læring | |
