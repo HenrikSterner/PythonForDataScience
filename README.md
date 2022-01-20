@@ -48,7 +48,7 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 13 | PY11, AdvPy:4  | Videregående Python: Lambda udtryk |50 |
 14 | PY11, AdvPy:4  | Videregående Python: filter funktion | 53|
 15 | PY11, AdvPy:4  | Videregående Python: map funktion |52 |
-16 | PY11, AdvPy:4  | Videregående Python: map funktion |54 |
+16 | PY11, AdvPy:4  | Videregående Python: reduce funktion |54 |
 17 | PY11, AdvPy:6  | Videregående Python: Decorators | |
 18 | PY11, AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
 19 | PY11, AdvPy:12-13  | Videregående Python: Regulære udtryk | |
