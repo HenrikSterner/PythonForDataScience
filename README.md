@@ -40,7 +40,7 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 10 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
 12 | PY: 16 | Indledende data science | |
-13 | DS: 2, PY: 16 | Introduktion til numpy (og scipy) | |
+13 | DS: 2, PY: 16 | Introduktion til numpy og matplotlib |Se slides |
 14 | DS: 4 | Introduktion til matplotlib | |
 15 | DS: 5 | Introduktion til maskinelæring | |
 16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
