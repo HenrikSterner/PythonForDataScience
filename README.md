@@ -11,8 +11,11 @@ Henrik Sterner og Peter Sterner
 # Grundbog og øvelser
 Vi bruger uddrag af følgende to gratis og opensource bøger af af Jake Vanderplas: 
 1. (PY) [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). 
-2. (DS) [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+2. (DI) [Dive into Deep Learning](https://d2l.ai/).
 3. [Øvelser](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb)
+4. [Noter] (https://github.com/HenrikSterner/PythonForDataScience/tree/master/noter)
+5. [AdvPy] (https://python-course.eu/advanced-python/)
+
 
 Bøgerne er gratis, og rummer en række kapitler i jupyter-formatet, som gør det muligt at kombinere tekst og kode. Derudover vil der være uddrag fra andre bøger og internet ressourcer.
 
@@ -26,6 +29,8 @@ Kurset benytter følgende software (python er inkl. i Anaconda ligesom numpy, sc
 # Undervisningsplan
 Herunder en tentativ plan for undervisningen, der opdateres undervejs. Øvelser refererer til numre i øvelsesdokumentet [exercises.ipynb](https://github.com/HenrikSterner/PythonForDataScience/blob/master/exercises/exercises.ipynb). Lav øvelserne i den rækkefølge som de står. Lav så mange som overhovedet muligt. Den eneste måde at blive god til faget er ved at øve sig regelmæssigt og så meget som overhovedet muligt. Træning gør mester! Gå ikke videre før du har styr på det fundamentale.
 
+## Programmering i Python
+
 Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 ----------- | ----------- | ----------------------------| ----------- |
 1          | PY: 1,2,3       | Intro til python og jupyter |   Installere og afprøve software         |
@@ -37,12 +42,29 @@ Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
 7 | PY: 10 | Undtagelser | 32 |
 8 | PY: 11-12 | Operationer på lister |34, 35, 28|
 9 | PY: 14 | Moduler og pakker | 37 |
-10 | PY: 15 | Strenge og regulære udtryk | 36, 29, 30|
+10 | PY: 15 | Strenge oglidt om regulære udtryk | 36, 29, 30|
 11 | Noter | Objektorienteret programmering og principperne bag | 38, 39, 40|
-12 | PY: 16 | Indledende data science | |
-13 | DS: 2, PY: 16 | Introduktion til numpy og matplotlib |Se slides |
-14 | DS: 4 | Introduktion til matplotlib | |
-15 | DS: 5 | Introduktion til maskinelæring | |
-16 | DS: 5 | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
-17 | DS: 5 | Unsupervised læring: kMeans, neurale netværk | |
-18 | DS: 5 | Reinforceret læring | |
+12 | PY11, AdvPy:5  | Videregående Python: Zip funktionen | 49 |
+13 | PY11, AdvPy:4  | Videregående Python: Lambda udtryk |50 |
+14 | PY11, AdvPy:4  | Videregående Python: filter funktion | 53|
+15 | PY11, AdvPy:4  | Videregående Python: map funktion |52 |
+16 | PY11, AdvPy:4  | Videregående Python: reduce funktion |54 |
+17 | PY11, AdvPy:6  | Videregående Python: Decorators | |
+18 | PY11, AdvPy:10-11  | Videregående Python: Tests, docTests, UnitTests, PyTests | |
+19 | PY11, AdvPy:12-13  | Videregående Python: Regulære udtryk | |
+20 | PY11, AdvPy:12-13  | Videregående Python: Tråde og parallellisering |51 |
+
+## Datascience, maskinelæring og dyb læring i Python
+
+Modul Nr       | Kapitel     | Indhold                     | Øvelser     |
+----------- | ----------- | ----------------------------| ----------- |
+D1 | PY: 16, DI: 1 | Indledende data science og maskinelæring| Se 1.9 i DI:1 |
+D2 | DI: 2 | Introduktion til vigtig baggrundsstof fra matematik og statistik | Øvelser i 2.1-2.7 i DI:2 |
+D3 | PY: 16 | Introduktion til numpy, scipy, matplotlib | 43-47|
+D4 | DI: 3 | Introduktion til maskinelæring: Linært neurale netværk | Øvelser i 3 i DI:3  |
+D5 | DI: 4 | Introduktion til multilinære perceptroner | |
+D6 | DI: 5 | Dyb læring | |
+D7, | DI: 6 og 7 | Convolutional neurale netværk | |
+D8 | På vej | Supervised læring: Lineær/logistisk regression, kNN, SVM (og beslutningstræer) | |
+D9 | På vej | Unsupervised læring: kMeans, neurale netværk | |
+D10 | På vej | Reinforceret læring | |
